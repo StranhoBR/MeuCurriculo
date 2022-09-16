@@ -23,9 +23,9 @@ Trabalhei a algum tempo com desenvolvimento de sistemas na linguagem Clipper e n
 
 Também na montagem e manutenção de redes e máquinas.
 
-Agora estou estudando para voltar para área que nunca deveria ter saído e sou apaixonado que é desenvolvimento de sistemas.
+Hoje trabalho no GrupoGBI como Desenvolvedor Júnior
 
-Hoje estou tentando me aprimorar em c#, dot.net, mvc, sql server, html5, Javascript, css3 para trabalhar na área e conquistar o meu espaço como desenvolvedor Back-End C#.
+Estudando sempre para me aprimorar em c#, dot.net, mvc, sql server, html5, Javascript, css3 para estar sempre me aprimorando como desenvolvedor Back-End C#.
 
 ---
 
@@ -47,6 +47,8 @@ Hoje estou tentando me aprimorar em c#, dot.net, mvc, sql server, html5, Javascr
 **Banco de Dados:**
 
 * SqlServer
+* Oracle SQL
+* MySql
 
 **Outros:**
 
@@ -57,7 +59,10 @@ Hoje estou tentando me aprimorar em c#, dot.net, mvc, sql server, html5, Javascr
 
 ## Experiência Profissional
 
-* 11/2019 até Atual- **Motorista de App**
+* 11/2019 até Atual- **Desenvolvedor Júnior**
+>Desenvolvimento de sistemas, backend e frontend
+
+* 11/2019 até 08/2022- **Motorista de App**
 >Transporte de passageiros via APP, bom relacionamento com publico e analise de áreas dinâmicas e
 >horários para o melhor aproveitamento do trabalho na plataforma.
 
