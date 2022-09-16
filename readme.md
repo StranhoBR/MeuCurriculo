@@ -141,6 +141,8 @@ Hoje estou tentando me aprimorar em c#, dot.net, mvc, sql server, html5, Javascr
 * **Curso** - Trilha Fundamentar do Discover ([Rocketseat](https://www.rocketseat.com.br/))
 * **Curso** - Fundamentos do C# ([Balta.Io](https://balta.io/))
 * **Curso** - CC50: Introdução à Ciência da Computação ([O Curso de Harvard, no Brasil](https://ead.napratica.org.br/enrollments/7277921/courses/84414))
+* **Curso** - ASP.NET Core REST APIs ([Alura](https://www.alura.com.br/))
+* **Curso** - Formação React Native ([Alura](https://www.alura.com.br/))
 
 
 
