@@ -132,6 +132,7 @@ Estudando sempre para me aprimorar em c#, dot.net, mvc, sql server, html5, Javas
 * **Certificado** - Front-End Design Essencial - HTML, CSS e JS Completo do Zero ([Udemy](https://www.udemy.com/certificate/UC-b6347a63-55d2-4250-874a-b0abdb97438e/))
 * **Certificado** - Curso de ASP .NET Core MVC - Criando um Site do Zero (NET 6) ([Udemy](https://www.udemy.com/certificate/UC-b1dbe5ef-4adc-4631-9a4e-6eb25af6e017/))
 * **Certificado** - Bootcamp - Pottencial .NET Developer - 96h ([Digital Innovation One Inc.](https://www.dio.me/certificate/BF10CC5F))
+* **Certificado** - Orientação a objetos em .NET - 4h ([Digital Innovation One Inc.](https://www.dio.me/certificate/AF67622E))
 
 ---
 #### Cursos
